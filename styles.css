@@ -102,10 +102,11 @@ h3{
     height: 4em;
     border-radius: 100em;  
 }
+
 .badge-icon{
-    position: absolute;
-    left: 108px;
-    bottom: -530px;
+    position: relative;
+    bottom: 0;
+    right: 0;
     width: 1em;
     height: 1em;
     background-color: rgb(17, 89, 59);
